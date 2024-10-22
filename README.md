@@ -16,7 +16,7 @@
 ```shell
 git clone https://github.com/RealHeart/ZMusic-Mod
 cd ZMusic-Mod
-./gradlew clean build 
+./gradlew clean build
 ```
 
 ## 开源协议
